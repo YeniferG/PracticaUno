@@ -60,7 +60,8 @@ function App() {
 
         <Grid item xs={2}>
           <Paper className={classes.paper}>
-            <Button variant="contained" color="secondary" size="large" startIcon={<DeleteIcon />}>
+            <Button variant="contained" color="secondary" size="large">
+              C
             </Button>
           </Paper>
         </Grid>
@@ -139,78 +140,7 @@ function App() {
 
         <Grid item xs={2}></Grid>
 
-        <Grid item xs={2}></Grid>
-
-        <Grid item xs={2}>
-          <Paper className={classes.paper}>
-            <Button variant="contained" color="primary" size="large">
-              1
-          </Button>
-          </Paper>
-        </Grid>
-
-        <Grid item xs={2}>
-          <Paper className={classes.paper}>
-            <Button variant="contained" color="primary" size="large">
-              2
-          </Button>
-          </Paper>
-        </Grid>
-
-        <Grid item xs={2}>
-          <Paper className={classes.paper}>
-            <Button variant="contained" color="primary" size="large">
-              3
-          </Button>
-          </Paper>
-        </Grid>
-
-        <Grid item xs={2}>
-          <Paper className={classes.paper}>
-            <Button variant="contained" color="default" size="large">
-              +
-          </Button>
-          </Paper>
-        </Grid>
-
-        <Grid item xs={2}></Grid>
-
-        <Grid item xs={2}></Grid>
-
-        <Grid item xs={2}>
-          <Paper className={classes.paper}>
-            <Button variant="contained" color="primary" size="large">
-              1
-          </Button>
-          </Paper>
-        </Grid>
-
-        <Grid item xs={2}>
-          <Paper className={classes.paper}>
-            <Button variant="contained" color="primary" size="large">
-              2
-          </Button>
-          </Paper>
-        </Grid>
-
-        <Grid item xs={2}>
-          <Paper className={classes.paper}>
-            <Button variant="contained" color="primary" size="large">
-              3
-          </Button>
-          </Paper>
-        </Grid>
-
-        <Grid item xs={2}>
-          <Paper className={classes.paper}>
-            <Button variant="contained" color="default" size="large">
-              -
-          </Button>
-          </Paper>
-        </Grid>
-
-        <Grid item xs={2}></Grid>
-
+        
         <Grid item xs={2}></Grid>
 
         <Grid item xs={2}>
